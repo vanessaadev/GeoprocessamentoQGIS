@@ -59,27 +59,7 @@ include('layout/header.php');
                             </div>
                         </div>
                         <!-- Imagem 05 - End -->
-                    </div><br>
-
-                    <!-- Saiba Mais -->
-                    <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <div class="SaibaMaisTexto">
-                                <p>Quer saber mais sobre? </p>
-                                <p>Acesse ao vídeo abaixo para acompanhar o procedimento de <strong class="TextoBold">Rótulos de Dados</strong>.</p>
-                                <!-- VÍDEO -->
-                                <div class="row">
-                                    <div class="col-md-2"></div>
-                                    <div class="col-md-8">
-                                        <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src=""></iframe>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2"></div>
-                                </div>
-                                <!-- FIM VÍDEO -->
-                            </div>
-                        </div><br>
+                    </div>
 
                     <br><br><br>
                     <!-- SCRIPT LIGHTBOX -->

@@ -35,12 +35,6 @@
                 <div class="sidebar-menu">
 
                     <ul class="menu ms-3">
-
-                        <li class="sidebar-item">
-                            <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="index.php" class="MenuTopico sidebar-link <?php if ($page == 'index') {echo 'ativo';} ?>"><span id="menuNumero"> </span>Apresentação</a>
-                            </div>
-                        </li>
                         
                         <li class="sidebar-item has-sub">
                             <div class="bd-callout-menu bd-callout-success-menu">

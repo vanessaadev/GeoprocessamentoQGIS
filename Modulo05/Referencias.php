@@ -33,20 +33,9 @@ include('layout/header.php');
 
                             <h2 class="Titulo">REFERÊNCIAS</h2>
 
-                            <br>
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
                         </div>
+
+                        <p>Parabéns! Você concluiu o <strong class="TextoBold">Módulo 05</strong> do curso de <strong class="TextoBold">Cartografia Básica e Introdução ao Geoprocessamento com QGIS</strong>. Agora você já pode responder a avaliação do módulo. Clique em “<strong class="TextoBold">Realizar Avaliação</strong>”. Boa sorte e até o próximo módulo!</p>
 
                         <br><br><br>
 

@@ -191,26 +191,6 @@ include('layout/header.php');
                         <p>Dependendo da forma do kernel, obteremos um mapa de calor mais suave ou hotspots mais claramente expostos. Por exemplo, o kernel triweight fornecerá pontos ativos mais claros e nítidos do que o kernel Epanechnikov, porque o kernel Epanechnikov tem menor influência perto do centro do ponto ativo. Além disso, em diferentes campos científicos, diferentes kernels são preferidos. Por exemplo, na análise de crimes, o kernel quártico é normalmente usado.</p>
                         <p>Também é possível usar um raio de pesquisa variável para cada ponto marcando a caixa de seleção <strong class="TextoBold">raio do campo</strong> e selecionando o campo de atributo com valor de raio na caixa de combinação. Se você precisar ponderar os pontos (em outras palavras, aumentar ou diminuir sua influência) por algum atributo numérico, ative a caixa de seleção <strong class="TextoBold">Weight for Field</strong> e selecione o campo correspondente. Em nosso exemplo, não usaremos essa funcionalidade, mas você pode experimentá-la.</p><br>
 
-                        <!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <div class="SaibaMaisTexto">
-                                <p>Quer saber mais sobre? </p>
-                                <p>Acesse ao vídeo abaixo para acompanhar o procedimento de criação de um <strong class="TextoBold">Mapa de calor</strong>.</p>
-                                <!-- VÍDEO -->
-                                <div class="row">
-                                    <div class="col-md-2"></div>
-                                    <div class="col-md-8">
-                                        <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src=""></iframe>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2"></div>
-                                </div>
-                                <!-- FIM VÍDEO -->
-                            </div>
-                        </div>
-
                         <br><br><br>
 
                         <!-- SCRIPT LIGHTBOX -->

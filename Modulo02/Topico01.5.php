@@ -743,27 +743,7 @@ include('layout/header.php');
                             </div>
                         </div><br>
 
-                        <p>Observe que no painel em branco aparecerá as informações da coluna "Área" contendo os intervalos escolhidos, de acordo com o número de classes definido. Esses dados se referem à área dos municípios, estando em azul os menores e, em vermelho, os maiores. O aspecto da estilização categorizada retornará no seu dado deve ficar como o da figura apresentada ao lado. As cores podem não ser a mesma, mas as informações serão divididas por meio de cores.</p><br>
-
-                        <!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <div class="SaibaMaisTexto">
-                                <p>Quer saber mais sobre? </p>
-                                <p>Acesse ao vídeo abaixo para acompanhar o procedimento de <strong class="TextoBold">Estilização de camadas: Graduado (Pontos, Linhas e Polígonos)</strong>.</p>
-                                <!-- VÍDEO -->
-                                <div class="row">
-                                    <div class="col-md-2"></div>
-                                    <div class="col-md-8">
-                                        <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src=""></iframe>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2"></div>
-                                </div>
-                                <!-- FIM VÍDEO -->
-                            </div>
-                        </div><br>
+                        <p>Observe que no painel em branco aparecerá as informações da coluna "Área" contendo os intervalos escolhidos, de acordo com o número de classes definido. Esses dados se referem à área dos municípios, estando em azul os menores e, em vermelho, os maiores. O aspecto da estilização categorizada retornará no seu dado deve ficar como o da figura apresentada ao lado. As cores podem não ser a mesma, mas as informações serão divididas por meio de cores.</p>
 
                         <br><br><br>
 
