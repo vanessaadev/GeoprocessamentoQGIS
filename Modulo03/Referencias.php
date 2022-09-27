@@ -35,18 +35,7 @@ include('layout/header.php');
                             <h2 class="Titulo">REFERÊNCIAS</h2>
                             <p>Parabéns! Você concluiu o módulo 03 do curso de Cartografia Básica e Introdução ao Geoprocessamento com QGIS . Agora você já pode responder a avaliação do módulo. Clique em “Realizar Avaliação”. Boa sorte e até o próximo módulo!</p>
                            
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
-                            <p class="Texto"></p>
-
+            
                         </div>
 
                         <br><br><br>

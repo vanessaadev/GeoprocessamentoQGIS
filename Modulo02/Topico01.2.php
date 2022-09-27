@@ -89,6 +89,7 @@ include('layout/header.php');
 
                         <p>Clicando no ícone
                             <a href="imagens/botao2.png" data-bs-toggle="modal" data-bs-target="#botao">
+                            <a href="https://docs.qgis.org/2.8/pt_BR/docs/gentle_gis_introduction/coordinate_reference_systems.html" target="_blank">
                                 <img src="imagens/botao2.png" alt="Botão 2" max-width="80%">
                             </a>
                             , será aberto o seletor de sistema de coordenadas de referência (SRC). Conforme vimos anteriormente, o Seletor do Sistema de Referência de Coordenadas QGIS oferece um filtro que facilita a localização de um CRS. Ele pode filtrar por nome ou ID (por exemplo, o código EPSG). Basta começar a digitar e observar como a lista de possíveis SRC fica mais curta. Na verdade, existem duas listas separadas; a lista superior contém o SRC que usamos recentemente, enquanto a lista inferior é muito mais longa e contém todos os SRC disponíveis (<strong class="TextoBold">Figura 05</strong>).
