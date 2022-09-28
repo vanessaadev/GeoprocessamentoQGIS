@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Adicionando uma legenda</h2>
+                        <h2 class="SubTitulo">Adicionando Uma Legenda</h2>
                         <hr>
 
                         <p>As legendas são outro elemento vital do mapa. Podemos usar o botão <strong class="TextoBold">Adicionar nova legenda <img src="Imagens/Icone41.png" width="30"></strong> ou acessar <strong class="TextoBold">Adicionar item >> Adicionar legenda</strong> para adicionar uma legenda padrão com entradas para todas as camadas de mapa visíveis no momento. O ponteiro do mouse se tornará uma cruz, e você deverá clicar no local do mapa onde deseja inserir a legenda (<strong class="TextoBold">Figura 06</strong>). As entradas de legenda podem ser reorganizadas (classificadas ou adicionadas a grupos), editadas e removidas das propriedades dos itens de legenda. Usando a opção <strong class="TextoBold">Quebrar texto</strong> podemos dividir rótulos longos em várias linhas. A Figura X mostra o menu de contexto que nos permite alterar o estilo (Oculto, Grupo ou Subgrupo) de uma entrada. A fonte, o tamanho e a cor correspondentes são configuráveis na seção Fontes.</p>

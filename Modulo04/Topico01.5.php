@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Criação de mapas de visão geral</h2>
+                        <h2 class="SubTitulo">Criação de Mapas de Visão Geral</h2>
                         <hr>
 
                         <p>Antes de iniciarmos, retorne às propriedades principais do mapa, clicando sobre ele e clique em <strong class="TextoBold">travar camadas</strong>, no item <strong class="TextoBold">camadas</strong>. Isto deverá ser feito em razão de necessitarmos criar um segundo mapa com outros arquivos, o que pode modificar o aspecto visual do mapa já criado. </p>
@@ -106,7 +106,7 @@ include('layout/header.php');
             <!-- Botões de navegação -->
             <div class="text-center">
                 <a href="Topico01.4.php" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar </a>
-                <a href="Referencias.php" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                <a href="http://cursos.egp.ce.gov.br/mod/quiz/view.php?id=1895&forceview=1" class="btn btn-primary" role="button" aria-pressed="true">Realizar Atividade Avaliativa 04 <i class="fa fa-chevron-right"></i></a>
             </div>
 
         </div> <!-- End main-content -->

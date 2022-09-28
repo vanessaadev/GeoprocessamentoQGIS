@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Interseção</h2>
+                        <h2 class="SubTitulo">Interseção</h2>
                         <hr>
 
                         <p>A ferramenta de interseção preserva apenas as áreas que se cruzam, ou seja, que são comuns às duas camadas utilizadas. O resultado dessa operação contém atributos de ambas as camadas de entrada. Para acessar a ferramenta, vá em <strong class="TextoBold">Vetor >> Geoprocessamento >> Interseção</strong>. Para esta prática, utilizaremos também os shapes <strong class="TextoBold">drenagens.shp</strong> e <strong class="TextoBold">acude.shp</strong>.</p><br>

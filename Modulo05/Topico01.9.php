@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Mapas de Kernel</h2>
+                        <h2 class="SubTitulo">Mapas de Kernel</h2>
                         <hr>
 
                         <p>Mapas de calor são excelentes ferramentas para visualizar uma distribuição de pontos. O kernel é uma janela móvel de tamanho e forma específicos que se move sobre uma área de pontos para calcular sua densidade local. Além disso, o plug-in nos permite controlar o tamanho do raster do mapa de calor de saída nas células (usando as configurações de Linhas e Colunas), bem como o tamanho da célula.</p>
@@ -183,33 +183,13 @@ include('layout/header.php');
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
                             <div class="SaibaMaisTexto">
                                 <p>Quer saber mais sobre? </p>
-                                <p>Mais informações sobre as formas do Kernel podem ser encontradas no link:<a href="http://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use"> http://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use</a></p>
+                                <p>Mais informações sobre as formas do Kernel podem ser encontradas no link:<a href="http://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use" target="_blank"> http://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use</a></p>
                             </div>
                         </div><br>
                         <!-- Fim Saiba Mais -->
 
                         <p>Dependendo da forma do kernel, obteremos um mapa de calor mais suave ou hotspots mais claramente expostos. Por exemplo, o kernel triweight fornecerá pontos ativos mais claros e nítidos do que o kernel Epanechnikov, porque o kernel Epanechnikov tem menor influência perto do centro do ponto ativo. Além disso, em diferentes campos científicos, diferentes kernels são preferidos. Por exemplo, na análise de crimes, o kernel quártico é normalmente usado.</p>
                         <p>Também é possível usar um raio de pesquisa variável para cada ponto marcando a caixa de seleção <strong class="TextoBold">raio do campo</strong> e selecionando o campo de atributo com valor de raio na caixa de combinação. Se você precisar ponderar os pontos (em outras palavras, aumentar ou diminuir sua influência) por algum atributo numérico, ative a caixa de seleção <strong class="TextoBold">Weight for Field</strong> e selecione o campo correspondente. Em nosso exemplo, não usaremos essa funcionalidade, mas você pode experimentá-la.</p><br>
-
-                        <!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <div class="SaibaMaisTexto">
-                                <p>Quer saber mais sobre? </p>
-                                <p>Acesse ao vídeo abaixo para acompanhar o procedimento de criação de um <strong class="TextoBold">Mapa de calor</strong>.</p>
-                                <!-- VÍDEO -->
-                                <div class="row">
-                                    <div class="col-md-2"></div>
-                                    <div class="col-md-8">
-                                        <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src=""></iframe>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2"></div>
-                                </div>
-                                <!-- FIM VÍDEO -->
-                            </div>
-                        </div>
 
                         <br><br><br>
 
@@ -236,7 +216,7 @@ include('layout/header.php');
             <!-- Botões de navegação -->
             <div class="text-center">
                 <a href="Topico01.8.php" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar </a>
-                <a href="Referencias.php" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                <a href="http://cursos.egp.ce.gov.br/mod/quiz/view.php?id=1896&forceview=1" class="btn btn-primary" role="button" aria-pressed="true">Realizar Atividade Avaliativa 05 <i class="fa fa-chevron-right"></i></a>
             </div>
 
         </div> <!-- End main-content -->

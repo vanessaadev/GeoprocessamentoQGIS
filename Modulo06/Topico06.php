@@ -108,24 +108,7 @@ include('layout/header.php');
                     <!-- Imagem 02 - End -->
                     <br><br>
 
-                    <!-- Saiba Mais -->
-                    <div class="SaibaMaisCaixa headline">
-                        <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                        <div class="SaibaMaisTexto">
-                        <center><h6 class="fs-6 SmallCaps badge bg-warning text-dark"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6></center><br>
-                        <!-- VÍDEO -->
-                        <div class="row">
-                            <div class="col-md-2">
-                            </div>
-                            <div class="col-md-8">
-                                <div class="embed-responsive embed-responsive-16by9">
-                                ?
-                                </div>
-                            </div>
-                            <div class="col-md-2">
-                            </div>
-                        </div>
-                    </div>
+                    
                             
 
                     <br><br><!-- SCRIPT LIGHTBOX -->

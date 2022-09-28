@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">União</h2>
+                        <h2 class="SubTitulo">União</h2>
                         <hr>
 
                         <p>A ferramenta União sobrepõe duas camadas de polígono e preserva todos os recursos de ambos os conjuntos de dados, independentemente de eles se cruzarem ou não. Para acessar a ferramenta, acesse <strong class="TextoBold">Vetor >> Geoprocessamento >> União</strong>. Para esta prática, utilizaremos também os shapes <strong class="TextoBold">acude.shp</strong> e <strong class="TextoBold">acude_buff_100m</strong>.</p><br>

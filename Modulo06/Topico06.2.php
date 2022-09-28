@@ -113,7 +113,8 @@ include('layout/header.php');
                             <div class="SaibaMaisCaixa headline">
                                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
                                 <div class="SaibaMaisTexto">
-                                <center><h6 class="fs-6 SmallCaps badge bg-warning text-dark"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6></center><br>
+                                    <p><strong>Extrair Máscara</strong></p>
+                                <center><h6 class="fs-6 SmallCaps badge bg-warning text-dark"><i class="fa fa-lightbulb"></i> Clique no vídeo abaixo para mais informações</h6></center><br>
                                 <!-- VÍDEO -->
                                 <div class="row">
                                     <div class="col-md-2">

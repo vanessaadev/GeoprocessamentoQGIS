@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Criação de um mapa básico</h2>
+                        <h2 class="SubTitulo">Criação de Um Mapa Básico</h2>
                         <hr>
 
                         <p>Neste exemplo, criaremos um mapa básico com uma <strong class="TextoBold">barra de escala</strong>, uma <strong class="TextoBold">seta norte</strong>, <strong class="TextoBold">texto explicativo</strong> e uma <strong class="TextoBold">legenda</strong>. Quando iniciamos o compositor de impressão, primeiro vemos o painel <strong class="TextoBold">Composição</strong> no lado direito. Este painel nos dá acesso às opções de papel, como <u>tamanho, orientação e número de páginas</u>. É também o local para configurar o comportamento de ajuste e a resolução de saída.</p>
@@ -63,7 +63,7 @@ include('layout/header.php');
                         </div><br>
                         <!-- Imagem 03 - End -->
 
-                        <p class="SubTitulo">Adicionando uma barra de escala</p>
+                        <p class="SubTitulo">Adicionando Uma Barra de Escala</p>
                         <hr>
                         <p>Depois que o mapa estiver na posição e aspecto visual que queremos, podemos adicionar uma barra de escala usando o botão <strong class="TextoBold">Adicionar nova barra de escala</strong> ou acessando o menu <strong class="TextoBold">Adicionar Item >> Adicionar Barra de Escala</strong>. O ponteiro do mouse se tornará uma cruz, e você deverá clicar no local do mapa onde deseja inserir a escala. Observe que o painel de propriedades do item agora exibe as propriedades da barra de escala, conforme você pode visualizar na <strong class="TextoBold">Figura 04</strong>. Como podemos adicionar vários itens de mapa a uma composição, é importante especificar a qual mapa a escala pertence. A segunda propriedade principal é o estilo da barra de escala, que nos permite escolher entre diferentes tipos de barra de escala, ou um tipo Numérico para uma representação textual simples, como 1: 1.000.000. Usando as propriedades das unidades, podemos converter as unidades do mapa em metros para algo mais gerenciável, como quilómetros. As propriedades de Segmentos controlam o número de segmentos e o tamanho de um único segmento na barra de escalas. Além disso, as propriedades controlam a cor, a fonte, o plano de fundo da barra de escala e assim por diante.</p><br>
 
@@ -92,7 +92,7 @@ include('layout/header.php');
                         <!-- Imagem 04 - End -->
 
                         <br><!-- Sub Sub Título -->
-                        <p class="SubTitulo">Adicionando uma imagem de seta do Norte</p>
+                        <p class="SubTitulo">Adicionando Uma Imagem de Seta do Norte</p>
                         <hr>
                         <p>As setas norte podem ser adicionadas a uma composição usando o botão <strong class="TextoBold">Adicionar Seta Norte </strong><img src="Imagens/Icone43.png" width="30"> ou indo para o menu <strong class="TextoBold">Adicionar item >> Adicionar seta</strong>. O ponteiro do mouse se tornará uma cruz, e você deverá clicar no local do mapa onde deseja inserir a seta (Figura 05). Para usar um dos SVGs que fazem parte da instalação do QGIS, abra a seção <strong class="TextoBold">Pesquisar diretórios no painel de propriedades do item</strong>. Pode demorar um pouco para o QGIS carregar as visualizações das imagens na pasta SVG. Você pode escolher uma seta do Norte na lista de imagens ou selecionar sua própria imagem clicando no botão próximo à entrada Fonte de imagem. Mais decorações de mapa, como setas ou retângulo, triângulo e formas de elipse podem ser adicionadas usando os botões apropriados da barra de ferramentas: Adicionar seta, Adicionar retângulo e assim por diante. O mecanismo é o mesmo. </p>
 

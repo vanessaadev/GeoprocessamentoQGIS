@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Dissolver</h2>
+                        <h2 class="SubTitulo">Dissolver</h2>
                         <hr>
 
                         <p>A ferramenta <strong class="TextoBold">Dissolver</strong> mescla as feições de uma camada GIS em um único dado. Isso é útil se você tiver muitas feições, todos com o mesmo valor de atributo. Para acessar a ferramenta, vá em <strong class="TextoBold">Vetor >> Geoprocessamento >> Dissolver</strong>. Para esta prática, utilizaremos o shape criado <strong class="TextoBold">drenagem_buff_100m</strong>.</p><br>

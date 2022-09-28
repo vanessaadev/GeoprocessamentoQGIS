@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Configurando buffers de rótulo</h2>
+                        <h2 class="SubTitulo">Configurando Buffers de Rótulo</h2>
                         <hr>
 
                         <p>Na seção <strong class="TextoBold">Buffer</strong>, podemos ajustar o tamanho, a cor e a transparência do buffer, bem como o estilo de junção da caneta e o modo de mesclagem. Com transparência e combinação, podemos melhorar a legibilidade do rótulo sem bloquear muito o mapa do fundo, conforme mostrado na <strong class="TextoBold">Figura 05</strong>.</p><br>
@@ -72,7 +72,7 @@ include('layout/header.php');
                                     <div class="col-md-2"></div>
                                     <div class="col-md-8">
                                         <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src=""></iframe>
+                                            <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1wVPU516U9YQCdWuSl6xV67IaAt75C8ro/preview"></iframe>
                                         </div>
                                     </div>
                                     <div class="col-md-2"></div>
@@ -105,7 +105,7 @@ include('layout/header.php');
         <!-- Botões de navegação -->
         <div class="text-center">
             <a href="Topico01.php" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar </a>
-            <a href="Referencias.php" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+            <a href="http://cursos.egp.ce.gov.br/mod/quiz/view.php?id=1894&forceview=1" class="btn btn-primary" role="button" aria-pressed="true">Realizar Atividade Avaliativa 03 <i class="fa fa-chevron-right"></i></a>
         </div>
 
     </div> <!-- End main-content -->

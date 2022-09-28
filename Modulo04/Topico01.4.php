@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Adicionando grades e quadros de mapas</h2>
+                        <h2 class="SubTitulo">Adicionando Grades e Quadros de Mapas</h2>
                         <hr>
 
                         <p>Outras características comuns dos mapas são grades e quadros. Cada item do mapa pode ter uma ou mais grades. Selecione o mapa e aparecerá à direita da tela as suas propriedades. Vá até o menu <strong class="TextoBold">Grades</strong>, e clique no ícone para adicionar uma grade. Em seguida, selecione a grade criada e clique em modificar a grade. Na tela seguinte, aparecerão três itens: aparência, moldura e desenhar coordenadas. </p>

@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Diagramas de Voronoy</h2>
+                        <h2 class="SubTitulo">Diagramas de Voronoy</h2>
                         <hr>
 
                         <p>Os polígonos de Voronoy representam a área de influência em torno de cada ponto. Eles têm o nome do matemático russo Georgy Voronoy, que inventou o algoritmo. Eles também são chamados de polígonos de Thiessen e são nomeados em homenagem a Alfred Thiessen, que criou independentemente o mesmo algoritmo. Para acessar a ferramenta, acesse <strong class="TextoBold">Vetor >> Ferramentas de Geometria >> Polígonos de Voronoy</strong>. Para esta prática, utilizaremos o shape <strong class="TextoBold">chuva média</strong> contido na pasta <strong class="TextoBold">Módulo 5 >> Dados</strong>. Será mostrada a tela da <strong class="TextoBold">Figura 14</strong>.</p><br>

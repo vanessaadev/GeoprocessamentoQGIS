@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="SubTitulo">Estilizando camadas raster</h2>
+                        <h2 class="SubTitulo">Estilizando Camadas Raster</h2>
                         <hr>
 
                         <p>Em um novo projeto, carregue os arquivos <strong class="TextoBold">L8_composicao_crato.tif, mde_crato.tif e uso_cobertura_crato.tif</strong> da pasta <strong class="TextoBold">Modulo2 >> Dados</strong>.</p><br>

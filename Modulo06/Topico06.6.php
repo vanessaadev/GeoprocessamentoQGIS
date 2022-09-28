@@ -136,7 +136,7 @@ include('layout/header.php');
                             <p class="ImportanteTitulo"> Importante</p>
                             <p class="ImportanteTexto">Recomenda-se converter os dados DEM com os quais você está trabalhando para um sistema de coordenadas projetadas, pois estas são expressas em metros. Nosso dado já está no sistema de projeção UTM, que nos permite realizar os cálculos sem problemas.</p>
                         </div>
-                        <hr><br>
+                        <br>
 
                         <p>Em um novo projeto, abra o arquivo <strong>mde_centro_sul.tif</strong>  localizado na pasta <strong>Módulo 6 >> Dados</strong> . Para realizar o cálculo da declividade, acesse o menu <strong>Raster >> Análise >> Declividade</strong>. Será aberta a seguinte tela:</p><br><br>
 

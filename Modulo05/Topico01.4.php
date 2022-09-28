@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Diferença</h2>
+                        <h2 class="SubTitulo">Diferença</h2>
                         <hr>
 
                         <p>A ferramenta Diferença usa a mesma entrada da ferramenta Recortar, mas produz os recursos de entrada que não se cruzam com a camada de recorte. Para acessar a ferramenta, vá em <strong class="TextoBold">Vetor >> Geoprocessamento >> Diferença</strong>. Para esta prática, utilizaremos também os shapes <strong class="TextoBold">drenagens.shp</strong> e <strong class="TextoBold">acude.shp</strong>.</p><br>

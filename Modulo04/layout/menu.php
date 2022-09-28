@@ -73,14 +73,7 @@
                                     </li>
                                 </ul>
                             </div>
-                        </li>          
-
-                        <li class="sidebar-item">
-                            <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="Referencias.php" class="MenuTopico sidebar-link <?php if ($page == 'Referencias') {echo 'ativo';} ?>">Referências
-                                </a>
-                            </div>
-                        </li>
+                        </li>  
                     </ul>
                 </div>
                 <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>

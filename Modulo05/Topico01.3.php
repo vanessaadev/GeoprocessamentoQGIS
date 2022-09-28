@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Recortar</h2>
+                        <h2 class="SubTitulo">Recortar</h2>
                         <hr>
 
                         <p>Normalmente utilizamos essa ferramenta quando os dados vão além dos limites de sua área de estudo. Nessa situação, você pode usar a ferramenta <strong class="TextoBold">Recortar</strong> para limitar os dados à extensão de sua área de estudo. A ferramenta utiliza uma camada vetorial de entrada e usa uma segunda camada como a camada de corte para produzir um novo conjunto de dados que é recortado na extensão da camada de corte. Para acessar a ferramenta, vá em Vetor >> Geoprocessamento >> Recortar. Para esta prática, utilizaremos os shapes drenagens.shp e acude.shp.</p>

@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Adicionar um título ao mapa</h2>
+                        <h2 class="SubTitulo">Adicionar Um Título ao Mapa</h2>
                         <hr>
 
                         <p>Para adicionar texto ao mapa, podemos usar o botão <strong class="TextoBold">Adicionar rótulo </strong> <img src="Imagens/Icone40.png" width="30"> ou acessar <strong class="TextoBold">Adicionar item >> Adicionar rótulo</strong>. O ponteiro do mouse se tornará uma cruz, e você deverá clicar no local do mapa onde deseja inserir o rótulo (<strong class="TextoBold">Figura 07</strong>).  Rótulos simples exibem todo o texto usando a mesma fonte. </p><br>

@@ -37,21 +37,13 @@ include('layout/header.php');
                         <hr>
 
                         <div class="text-center">
-                            <img class="img-fluid wow fadeInLeft" src="imagens/banner.png" alt="Alt da imagem fica aqui">
+                            <img class="img-fluid wow fadeInLeft" src="imagens/banner.jpg" alt="Alt da imagem fica aqui">
                         </div>
 
-                        <br>                    
-                        <p>Nesta aula, trataremos de:</p>
-
+                        <br><p><strong class="TextoBold">Bem-vindo(a) ao Módulo 06 do Curso de Cartografia Básica e Introdução ao Geoprocessamento com QGIS!</strong></p>
+                        <p>Esperamos que você se dedique ao curso e tenha um bom aproveitamento!</p>
                         <br>
-                        <h2 class="Titulo">Objetivos</h2>
-                        <hr>
-
-                        <ul class="none">
-                            <li><i class="fa fa-bullseye CorVerdeClaroEstado"></i> Texto</li>
-                            <li><i class="fa fa-bullseye CorVerdeClaroEstado"></i> Texto</li>
-                            <li><i class="fa fa-bullseye CorVerdeClaroEstado"></i> Texto</li>
-                        </ul>
+                        
 
                         <!-- SCRIPT LIGHTBOX -->
                         <script>

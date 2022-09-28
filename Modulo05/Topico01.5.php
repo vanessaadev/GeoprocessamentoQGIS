@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Diferença simétrica</h2>
+                        <h2 class="SubTitulo">Diferença simétrica</h2>
                         <hr>
 
                         <p>A ferramenta <strong class="TextoBold">diferença simétrica</strong> <u>preserva apenas as áreas que não se cruzam</u>. O resultado dessa operação contém atributos de ambas as camadas de entrada. Para acessar a ferramenta, vá em <strong class="TextoBold">Vetor >> Geoprocessamento >> Diferença Simétrica</strong>. Para esta prática, utilizaremos também os shapes <strong class="TextoBold">drenagens.shp</strong> e <strong class="TextoBold">acude.shp</strong>.</p><br>

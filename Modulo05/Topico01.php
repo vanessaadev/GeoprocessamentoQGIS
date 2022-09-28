@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Buffer (distância fixa e variável)</h2>
+                        <h2 class="Titulo">Buffer (Distância Fixa e Variável)</h2>
                         <hr>
 
                         <div class="col-md-12">

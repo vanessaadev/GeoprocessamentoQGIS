@@ -45,7 +45,7 @@
                         <li class="sidebar-item has-sub">
                             <div class="bd-callout-menu bd-callout-success-menu">
                                 <a href="#.php" class="MenuTopico sidebar-link <?php if ($page == 'Topico06') {echo 'ativo'; } ?>">
-                                    <div id="menuNumero">06 </div> OPERAÇÕES DE ANÁLISE ESPACIAL COM DADOS MATRICIAIS
+                                    <div id="menuNumero">06 </div> Operações de Análise Espacial com Dados Matriciais
                                 </a>
                                 <ul class="submenu">
                                 <li class="sidebar-item">
@@ -81,13 +81,6 @@
                                         </a>
                                     </li>
                                 </ul>
-                            </div>
-                        </li>
-
-                        <li class="sidebar-item">
-                            <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="Referencias.php" class="MenuTopico sidebar-link <?php if ($page == 'Referencias') {  echo 'ativo';  } ?>">Referências
-                                </a>
                             </div>
                         </li>
                     </ul>
