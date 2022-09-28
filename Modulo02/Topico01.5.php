@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Estilizando camadas vetoriais.</h2>
+                        <h2 class="SubTitulo">Estilizando Camadas Vetoriais.</h2>
                         <hr>
 
                         <p>Como vimos quando carregamos as camadas vetoriais, o QGIS as renderizar usando um estilo padrão e uma cor aleatória. Nessa prática, definiremos o estilo das camadas de ponto, linha e polígono. Você também se acostumará com as opções de estilo vetorial mais comuns. Independentemente do tipo de geometria da camada, sempre encontramos uma lista suspensa com as opções de estilo disponíveis no canto superior esquerdo da caixa de diálogo Estilo. As seguintes opções de estilo abaixo estão disponíveis para camadas vetoriais. Por ora, abordaremos as opções de simbologia <strong class="TextoBold">simples, categorizado</strong> e <strong class="TextoBold">graduado:</strong> </p><br>
@@ -529,7 +529,7 @@ include('layout/header.php');
                             <div class="SaibaMaisTexto">
                                 <p>Quer saber mais sobre? </p>
                                 <p>Assista aos vídeos abaixo para acompanhar o procedimento de<strong class="TextoBold"> Estilização de camadas símbolo simples (pontos, linhas e polígonos)</strong>.</p><br>
-                                <p class="text-center"><strong class="TextoBold">Pontos:</strong></p>
+                                <p class="text-center"><strong class="TextoBold">Pontos</strong></p>
                                 <!-- VÍDEO -->
                                 <div class="row">
                                     <div class="col-md-2"></div>
@@ -541,7 +541,7 @@ include('layout/header.php');
                                     <div class="col-md-2"></div>
                                 </div>
                                 <!-- FIM VÍDEO --><br>
-                                <p class="text-center"><strong class="TextoBold">Linhas:</strong></p>
+                                <p class="text-center"><strong class="TextoBold">Linhas</strong></p>
                                 <!-- VÍDEO -->
                                 <div class="row">
                                     <div class="col-md-2"></div>
@@ -553,7 +553,7 @@ include('layout/header.php');
                                     <div class="col-md-2"></div>
                                 </div>
                                 <!-- FIM VÍDEO --><br>
-                                <p class="text-center"><strong class="TextoBold">Polígonos:</strong></p>
+                                <p class="text-center"><strong class="TextoBold">Polígonos</strong></p>
                                 <!-- VÍDEO -->
                                 <div class="row">
                                     <div class="col-md-2"></div>
@@ -745,25 +745,7 @@ include('layout/header.php');
 
                         <p>Observe que no painel em branco aparecerá as informações da coluna "Área" contendo os intervalos escolhidos, de acordo com o número de classes definido. Esses dados se referem à área dos municípios, estando em azul os menores e, em vermelho, os maiores. O aspecto da estilização categorizada retornará no seu dado deve ficar como o da figura apresentada ao lado. As cores podem não ser a mesma, mas as informações serão divididas por meio de cores.</p><br>
 
-                        <!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <div class="SaibaMaisTexto">
-                                <p>Quer saber mais sobre? </p>
-                                <p>Acesse ao vídeo abaixo para acompanhar o procedimento de <strong class="TextoBold">Estilização de camadas: Graduado (Pontos, Linhas e Polígonos)</strong>.</p>
-                                <!-- VÍDEO -->
-                                <div class="row">
-                                    <div class="col-md-2"></div>
-                                    <div class="col-md-8">
-                                        <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src=""></iframe>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2"></div>
-                                </div>
-                                <!-- FIM VÍDEO -->
-                            </div>
-                        </div><br>
+                        
 
                         <br><br><br>
 

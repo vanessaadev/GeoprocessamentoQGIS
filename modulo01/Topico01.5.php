@@ -38,7 +38,7 @@ include('layout/header.php');
                            Essas ferramentas são o carro-chefe do QGIS. Elas nos permitem mover, inspecionar, medir e selecionar dados. Todos são essenciais em qualquer Sistema de Informações Geográficas. Comece clicando no ícone <img src="imagens/Icone11.png" width="4%"> deslocar mapa. Quando esta opção é selecionada, ela será destacada em um tom diferente, assim como qualquer outro botão interativo no QGIS. Isso é demonstrado na figura que mostra a barra de ferramentas de navegação. 
                         </p>
 
-                        <center><p>Barra de ferramentas e de navegação</p></center>
+                        <center><p><strong>Barra de ferramentas e de navegação</strong></p></center>
 
                         <!-- Titulo Figura -->
                         <div class="text-center">
@@ -70,14 +70,14 @@ include('layout/header.php');
                         </div>
                         <!-- Tabela 01 - End -->
 
-                        <p>Barra de Ferramentas e de Navegação.</p>
+                        <p><strong>Barra de Ferramentas e de Navegação.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">
                             </div>
                             <div class="col-md-8">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe src="https://drive.googe.com/file/d/1sKpC07rsP9kXuCViKqa_3Y5JT3t1mLyf/preview" width="640" height="480" allow="autoplay"></iframe>
+                                    <iframe src="https://drive.google.com/file/d/1sKpC07rsP9kXuCViKqa_3Y5JT3t1mLyf/preview" width="640" height="480" allow="autoplay"></iframe>
                                 </div>
                             </div>
                             <div class="col-md-2">
@@ -174,12 +174,19 @@ include('layout/header.php');
                         </div>
                         <!-- Imagem 09 - End -->
 
-                        <br><br><!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <p class="SaibaMaisTexto"> Barra de Atributos
-                            <br><br>Disponível em:</p>
-                        </div>
+                        <p><strong> Barra de Atributos. </strong></p>
+
+                        <div class="row">
+                            <div class="col-md-2">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe src="https://drive.google.com/file/d/1vN4zffQpwtUB_RiRyvYElOd_yWBvJzC3/preview" width="640" height="480" allow="autoplay"></iframe>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                            </div>
+                        </div><br>
 
 
                         <br><!-- Sub Sub Título -->
@@ -220,12 +227,19 @@ include('layout/header.php');
                         </div>
                         <!-- Tabela 03 - End -->
 
-                        <br><br><!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <p class="SaibaMaisTexto"> Tabela de Atributos
-                            <br><br>Disponível em:</p>
-                        </div>
+                        <p><strong> Tabela de Atributos.</strong></p>
+
+                        <div class="row">
+                            <div class="col-md-2">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe src="https://drive.google.com/file/d/15LE5ypDSLORvcbxaapAH4Fc2iBEpxW74/preview" width="640" height="480" allow="autoplay"></iframe>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                            </div>
+                        </div><br>
 
                         
                         <br><!-- Sub Sub Título -->
@@ -257,14 +271,14 @@ include('layout/header.php');
                         </div>
                         <!-- Imagem 10 - End -->
 
-                        <br><ol>
+                        <br><ol class="Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong>Criar novo campo:</strong> nessa área é possível informar a estrutura da coluna que será criada na tabela de atributos, com informações como nome do campo, tipo do novo campo (número inteiro, número decimal, texto, data), bem como a extensão dos dados a serem inseridos nessa coluna (comprimento do campo de saída), ou seja, a quantidade de caracteres que caberá em cada célula. </li>
-                            <li class="wow fadeInLeft" data-wow-delay="0.6s">Caso você não deseje criar novo campo, esse campo <strong>Atualiza um campo existente.</strong> Para isso, basta marcar a caixa que fica ao lado da opção e depois escolher qual coluna será atualizada na lista suspensa que ficará ativa;</li>
-                            <li class="wow fadeInLeft" data-wow-delay="0.9s"><strong>Campo de expressão:</strong> neste campo serão inseridos os comandos dados pelo usuário, visando a geração de informação na tabela de atributos;</li>
-                            <li class="wow fadeInLeft" data-wow-delay="1.2s"><strong>Campo de funções:</strong> este campo contém as funções e operadores para a geração dos comandos dados no campo de expressão. O item “CAMPOS E VALORES” contém as colunas da tabela de atributos.</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="0.6s">Caso você não deseje criar novo campo, esse campo <strong>Atualiza um campo existente.</strong> Para isso, basta marcar a caixa que fica ao lado da opção e depois escolher qual coluna será atualizada na lista suspensa que ficará ativa;</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="0.9s"><strong>Campo de expressão:</strong> neste campo serão inseridos os comandos dados pelo usuário, visando a geração de informação na tabela de atributos;</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="1.2s"><strong>Campo de funções:</strong> este campo contém as funções e operadores para a geração dos comandos dados no campo de expressão. O item “CAMPOS E VALORES” contém as colunas da tabela de atributos.</li>
                         </ol>
 
-                        <p>Calculadora de campo.</p>
+                        <br><p><strong>Calculadora de campo.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">

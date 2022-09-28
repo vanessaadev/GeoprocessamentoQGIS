@@ -40,8 +40,8 @@ include('layout/header.php');
                             <hr>
 
                             <p>QGIS é um Sistema de Informações Geográficas - SIG desktop de código aberto e gratuito cujo desenvolvimento começou em 2002. Desde 2007 o projeto tem se desenvolvido sob a orientação da <em>Open Source Geospatial Foundation (OSGeo)</em>. Apesar de relativamente recente, o QGIS está ganhando cada vez mais popularidade entre usuários individuais, empresas privadas e organizações em todo o mundo pelos seguintes motivos:</p>
-                            
-                            <ul class="none">
+
+                            <ul class="none Texto">
                                 <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Distribuição sob a GNU General Public License (GPL), que garante aos usuários a liberdade de usar, estudar, compartilhar e modificar o software;</li>
                                 <li class="wow fadeInLeft" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Suporte multiplataforma, o que significa que o QGIS pode ser executado em sistemas operacionais Linux, Unix, Mac OS, Windows e Android;</li>
                                 <li class="wow fadeInLeft" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Suporte a múltiplos formatos de dados vetoriais e raster, bem como formatos de banco de dados e outras funcionalidades;</li>
@@ -52,13 +52,14 @@ include('layout/header.php');
                             <div class="SaibaMaisCaixa">
                                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
                                 <p class="SaibaMaisTexto">
-                                <strong>Mais informações sobre o QGIS podem ser encontradas:</strong><br>
-                                No site oficial: <a href="http://qgis.org/" target="_blank">qgis.org/</a><br>
-                                No site de documentações: <a href="https://www.qgis.org/pt_BR/docs/index.html" target="_blank">qgis.org/pt_BR/docs/index.html</a></p>
+                                    <strong>Mais informações sobre o QGIS podem ser encontradas:</strong><br>
+                                    No site oficial: <a href="http://qgis.org/" target="_blank">qgis.org/</a><br>
+                                    No site de documentações: <a href="https://www.qgis.org/pt_BR/docs/index.html" target="_blank">qgis.org/pt_BR/docs/index.html</a>
+                                </p>
                             </div>
 
 
-                            <p>Para proceder a instalação do QGIS em seu computador, siga as instruções no vídeo.</p>
+                            <p>Para proceder a <strong>instalação do QGIS</strong> em seu computador, siga as instruções no vídeo.</p>
 
                             <div class="row">
                                 <div class="col-md-2">
@@ -71,33 +72,33 @@ include('layout/header.php');
                                 <div class="col-md-2">
                                 </div>
                             </div>
-                        
-                <br><br>
-                <!-- Botões de navegação -->
-                <div class="text-center">
-                    <a href="Topico01.2.php" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
-                </div>
 
-            </div> <!-- FIM COL MD-10 -->
-        
-        <!--FIM CONTEUDO PARTE 03-->
+                            <br><br>
+                            <!-- Botões de navegação -->
+                            <div class="text-center">
+                                <a href="Topico01.2.php" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                            </div>
+
+                        </div> <!-- FIM COL MD-10 -->
+
+                        <!--FIM CONTEUDO PARTE 03-->
 
 
-        <!-- SCRIPT LIGHTBOX -->
-        <script>
+                        <!-- SCRIPT LIGHTBOX -->
+                        <script>
 
-        </script>
+                        </script>
 
-        <!-- FOOTER -->
-        <?php include('layout/footer.php') ?>
+                        <!-- FOOTER -->
+                        <?php include('layout/footer.php') ?>
 
-    </div> <!-- DIV MAIN FIM -->
+                    </div> <!-- DIV MAIN FIM -->
 
-    <!-- FOOTER JS -->
-    <?php include('layout/js.php') ?>
+                    <!-- FOOTER JS -->
+                    <?php include('layout/js.php') ?>
 
-    <!-- BOTÃO BACK TO TOP -->
-    <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
+                    <!-- BOTÃO BACK TO TOP -->
+                    <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
 </body>
 

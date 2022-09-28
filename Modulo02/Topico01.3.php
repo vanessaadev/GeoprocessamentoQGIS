@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Carregando arquivos raster</h2>
+                        <h2 class="SubTitulo">Carregando Arquivos Raster</h2>
                         <hr>
 
                         <p>Dados raster, incluindo, mas não se limitando a modelos de elevação ou imagens de sensoriamento remoto, são comumente usados em muitas análises. O processo de carregamento de arquivos matriciais (raster/imagens) no QGIS já foi apresentado na seção Carregando arquivos raster (imagem / matricial) e será este o procedimento que você adotará para importar as imagens a serem utilizadas nessa prática para dentro do QGIS.</p>

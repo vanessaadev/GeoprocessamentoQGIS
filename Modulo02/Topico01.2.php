@@ -32,7 +32,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo">Trabalhando com Sistemas de Referência de Coordenadas – SRC</h2>
+                        <h2 class="SubTitulo">Trabalhando com Sistemas de Referência de Coordenadas – SRC</h2>
                         <hr>
 
                         <p>Sempre que carregamos uma fonte de dados, o QGIS procura por informações SRC utilizáveis, por exemplo, no arquivo <strong class="TextoBold">.prj</strong> do shapefile. Se o QGIS não conseguir encontrar nenhuma informação utilizável, por padrão, ele pedirá que você especifique o CRS manualmente. Esta opção pode ser alterada em <strong class="TextoBold">Configurações >> Opções >> CRS</strong> para sempre usar o SRC do projeto ou um SRC padrão.</p>

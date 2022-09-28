@@ -85,14 +85,14 @@ include('layout/header.php');
                         <!-- Imagem 12 - End -->
 
 
-                        <br><ol>
+                        <br><ol class="Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong>Forneça um caminho e um nome de arquivo</strong> usando o botão &nbsp;<img src="imagens/Icone08.png">&nbsp;  próximo ao nome do arquivo. O QGIS adicionará automaticamente a extensão correta ao nome que você fornecer;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.6s">Em seguida, <strong>indique a codificação do arquivo</strong> dos dados. <strong>Mantenha a codificação UTF-8</strong>;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.9s">Escolha o <strong>tipo de geometria da camada</strong> (ponto, multiponto, linha ou polígono);</li>
                             <li class="wow fadeInLeft" data-wow-delay="1.2s">Especifique se a geometria deve ter Z (valores + M) ou valores M. Mantenha a opção <strong>nenhum</strong>;</li>
                             <li class="wow fadeInLeft" data-wow-delay="1.5s">Especifique o sistema de referência de coordenadas usando o botão Selecione <strong>Projeção</strong>.</li>
                             <li class="wow fadeInLeft" data-wow-delay="1.8s">Para <strong>adicionar campos</strong> à camada que você está criando:</li>
-                                <ol class="none">
+                                <br><ol class="none">
                                    <li class="wow fadeInLeft" data-wow-delay="2.1s">6.1. Digite o nome do campo;</li>
                                    <li class="wow fadeInLeft" data-wow-delay="2.4s">6.2. Selecione o tipo de dados. Somente número decimal, número inteiro, dados de texto e atributos de data são suportados;</li>
                                    <li class="wow fadeInLeft" data-wow-delay="2.7s">6.3. Dependendo do formato de dados selecionado, insira o Comprimento (parte inteira) e a Precisão (parte decimal);</li>
@@ -101,7 +101,7 @@ include('layout/header.php');
                                 </ol>
                         </ol><br>
 
-                        <p>Acesse o vídeo abaixo para acompanhar o procedimento para criação de shapefiles.</p>
+                        <p>Acesse o vídeo abaixo para acompanhar o procedimento para <strong>criação de shapefiles.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">
@@ -120,17 +120,6 @@ include('layout/header.php');
                         <hr>
 
                         <br><p>Após seguidos os passos do item: <strong>Criando um Shapefile</strong>, você terá criado o arquivo shapefile, porém apesar de constar no painel de camadas, nenhuma geometria foi atribuída a ele, o que significa que não serão visualizadas informações na área do mapa. Para isso, poderemos adicionar imagens na tela para que, a partir de análise visual, possamos adicionar informações ao shapefile. Esse procedimento é denominado vetorização. </p>
-
-                        <p>Acesse o link do vídeo abaixo para acompanhar o procedimento para adicionar informações a um shapefile. </p>
-
-                        <!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <p class="SaibaMaisTexto">
-                               Clique aqui e acesse o link do vídeo abaixo para acompanhar o procedimento para <strong>adicionar informações a um shapefile</strong>. 
-                               falta video
-                            </p>
-                        </div>
 
                       
                         <br><!-- Sub Sub Título -->
@@ -162,7 +151,7 @@ include('layout/header.php');
                         <!-- Imagem 13 - End -->
 
 
-                        <br><br><ol>
+                        <br><br><ol class="Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s">Campo de seleção do formato do arquivo a ser convertido. Existem diversas opções, mas mantenha o formato shapefile;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.6s"><strong>Forneça um caminho e um nome de arquivo</strong> usando o botão <img src="imagens/Icone73.png"> próximo ao nome do arquivo. O QGIS adicionará automaticamente a extensão correta ao nome que você fornecer;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.9s">Especifique o sistema de referência de coordenadas usando o botão <strong>Selecione Projeção</strong>.</li>
@@ -173,7 +162,7 @@ include('layout/header.php');
 
                         <br><p>Feito todo o procedimento, o novo arquivo criado será mostrado no painel de camadas. Acesse o vídeo para acompanhar o procedimento de adição de informações a um shapefile e criação de um shapefile a partir de um arquivo de texto delimitado.</p>
 
-                        <p>Acesse o vídeo abaixo para acompanhar o procedimento para criação de shapefile a partir de arquivo de texto delimitado. </p>
+                        <p>Acesse o vídeo abaixo para acompanhar o procedimento para <strong>criação de shapefile a partir de arquivo de texto delimitado.</strong> </p>
 
                         <div class="row">
                             <div class="col-md-2">
@@ -242,7 +231,7 @@ include('layout/header.php');
                         </div>
                         <!-- Imagem 15 - End -->
 
-                        <br><br><ol>
+                        <br><br><ol class="Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s">Clique na aba Uniões;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.6s">Clique no ícone <img src="imagens/Icone74.png"> ;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.9s">Em seguida, aparecerá a tela de adicionar união de vetor. O que será exposto nesta tela são as colunas da sua planilha em formato csv e as colunas da tabela de atributos de seu shapefile. Em <strong>unir camadas</strong> você escolhe a planilha csv que contém os dados a serem inseridos no shapefile;</li>
@@ -252,7 +241,7 @@ include('layout/header.php');
                             <li class="wow fadeInLeft" data-wow-delay="2.1s"><strong>Marque essa opção e apague o conteúdo da célula</strong> e, após isso, clique em <strong>OK</strong>.</li>
                         </ol><br>
 
-                        <p>Acesse o vídeo para acompanhar o procedimento de adição de dados a um shapefile a partir de uma planilha em csv.</p>
+                        <p>Acesse o vídeo para acompanhar o procedimento de <strong>adição de dados a um shapefile a partir de uma planilha em csv.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">
@@ -275,7 +264,7 @@ include('layout/header.php');
                 <!-- Botões de navegação -->
                 <div class="text-center">
                     <a href="Topico01.5.php" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                    <a href=".php" class="btn btn-primary" role="button" aria-pressed="true">Realizar Atividade Avaliativa 01 <i class="fa fa-chevron-right"></i></a>
+                    <a href="http://cursos.egp.ce.gov.br/mod/quiz/view.php?id=1892&forceview=1" class="btn btn-primary" role="button" aria-pressed="true">Realizar Atividade Avaliativa 01 <i class="fa fa-chevron-right"></i></a>
                 </div>
 
             </div> <!-- FIM COL MD-10 -->

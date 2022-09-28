@@ -69,10 +69,10 @@ include('layout/header.php');
                             </div>
                         </div>
 
-                        <br><ol>
+                        <br><ol class="Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong>Formato Original:</strong> pode ser Arquivo, Diretório, Banco de dados ou Protocolo. Neste curso, iremos trabalhar com a opção de fonte de arquivo, pois nossos dados são arquivos individuais guardados em pastas. </li>
-                            <li class="wow fadeInLeft" data-wow-delay="0.6s"><strong>Codificação:</strong> se os dados com os quais você trabalha contêm símbolos especiais ou o conjunto de caracteres de seus atributos textuais difere da simbologia latina convencional, você deve escolher um tipo de codificação apropriado na lista suspensa. No caso de nossos dados, podemos manter a codificação padrão do sistema.</li>
-                            <li class="wow fadeInLeft" data-wow-delay="0.9s"><strong>Fonte:</strong> este botão serve para navegar para o diretório onde estão localizados os arquivos que iremos trabalhar, bastando clicar no ícone &nbsp;<img src="imagens/icone08.png" width="4%">&nbsp; . Você pode escolher um ou vários arquivos (com a tecla Ctrl) para adicionar após clicar no botão Abrir e depois em Adicionar. </li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="0.6s"><strong>Codificação:</strong> se os dados com os quais você trabalha contêm símbolos especiais ou o conjunto de caracteres de seus atributos textuais difere da simbologia latina convencional, você deve escolher um tipo de codificação apropriado na lista suspensa. No caso de nossos dados, podemos manter a codificação padrão do sistema.</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="0.9s"><strong>Fonte:</strong> este botão serve para navegar para o diretório onde estão localizados os arquivos que iremos trabalhar, bastando clicar no ícone &nbsp;<img src="imagens/icone08.png" width="4%">&nbsp; . Você pode escolher um ou vários arquivos (com a tecla Ctrl) para adicionar após clicar no botão Abrir e depois em Adicionar. </li>
                         </ol>
 
                         <br><!-- Importante -->
@@ -110,7 +110,7 @@ include('layout/header.php');
                             </div>
                         </div>
 
-                        <p>Carregando arquivos vetoriais no QGIS.</p>
+                        <p><strong>Carregando arquivos vetoriais no QGIS.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">
@@ -162,14 +162,14 @@ include('layout/header.php');
                         </div>
                         <!-- Imagem 05 - End -->
 
-                        <br><br><ul class="none">
+                    <br><br><ul class="none Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong>1. Tipo de Fonte:</strong> Pode ser Arquivo ou Protocolo. Neste curso, iremos trabalhar com a opção de fonte de arquivo, pois nossos dados são arquivos individuais guardados em pastas;</li>
                             <li class="wow fadeInLeft" data-wow-delay="0.6s"><strong>2. Fonte:</strong> este botão serve para navegar para o diretório onde estão localizados os arquivos que iremos trabalhar, bastando clicar no ícone &nbsp;<img src="imagens/Icone08.png" width="4%">&nbsp;  .Você pode escolher um ou vários arquivos (com a tecla Ctrl) para adicionar após clicar no botão Abrir e depois em Adicionar.</li>
                         </ul>
 
                         <br><p>Também pode ser utilizado o painel navegador para importar a camada raster, da mesma forma que se procede com os vetores, já mostrado no <strong>item: Importando Valores Separados por Vírgula (.csv)</strong>.</p>
 
-                        <p>Carregando arquivos matriciais no QGIS.</p>
+                        <p><strong>Carregando arquivos matriciais no QGIS.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">
@@ -213,12 +213,12 @@ include('layout/header.php');
                         </div>
                         <!-- Imagem 06 - End -->
 
-                        <br><ol>
+                        <br><ol class="Texto">
                             <li class="wow fadeInLeft" data-wow-delay="0.3s">Navegar até a pasta <strong>Curso_QGIS >> Módulo 1 >> Dados</strong> e aponte para o arquivo <em>focos_calor.csv</em>;</li>
-                            <li class="wow fadeInLeft" data-wow-delay="0.6s">O QGIS tentará analisá-lo usando o delimitador especificado. Por padrão, o delimitador usado é a vírgula, mas você pode especificar qualquer outro delimitador usando Delimitadores personalizados (vírgula, tabulação, espaço e assim por diante) ou delimitador de expressão regular;</li>
-                            <li class="wow fadeInLeft" data-wow-delay="0.9s">A caixa de diálogo também fornece acesso a várias outras configurações úteis. Por exemplo, ativar a opção <em>primeiro registro tem nomes de campo</em> criar cabeçalhos para os campos;</li>
-                            <li class="wow fadeInLeft" data-wow-delay="1.2s">Após definir a geometria como coordenadas de ponto, o campo X e o campo Y contendo os valores de longitude e latitude serão carregados do conjunto de dados <strong>automaticamente</strong>. Caso não seja, escolha manualmente;</li>
-                            <li class="wow fadeInLeft" data-wow-delay="1.5s">Escolha o <strong>Sistema de Referência de Coordenadas (SRC)</strong> para o arquivo. </li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="0.6s">O QGIS tentará analisá-lo usando o delimitador especificado. Por padrão, o delimitador usado é a vírgula, mas você pode especificar qualquer outro delimitador usando Delimitadores personalizados (vírgula, tabulação, espaço e assim por diante) ou delimitador de expressão regular;</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="0.9s">A caixa de diálogo também fornece acesso a várias outras configurações úteis. Por exemplo, ativar a opção <em>primeiro registro tem nomes de campo</em> criar cabeçalhos para os campos;</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="1.2s">Após definir a geometria como coordenadas de ponto, o campo X e o campo Y contendo os valores de longitude e latitude serão carregados do conjunto de dados <strong>automaticamente</strong>. Caso não seja, escolha manualmente;</li>
+                            <br><li class="wow fadeInLeft" data-wow-delay="1.5s">Escolha o <strong>Sistema de Referência de Coordenadas (SRC)</strong> para o arquivo. </li>
                         </ol>
 
                         <p>Como podemos ver nos valores das colunas Latitude e Longitude, as coordenadas do ponto foram originalmente registradas em graus decimais. Na janela Seletor do sistema de referência de coordenadas, insira o filtro de código EPSG: 4674 para especificar SIRGAS2000 em Sistemas de coordenadas geográficas como o SRC inicial (Figura 6). Após clicar em OK, você verá que os dados aparecerão na tela do mapa como pontos.</p>
@@ -248,7 +248,7 @@ include('layout/header.php');
 
                         <br><p>O QGIS usa definições de SRC com base no conjunto de dados de parâmetros geodésicos do <em>European Petroleum Search Group (EPSG)</em>, que contém descrições estruturadas detalhadas de sistemas de referência de coordenadas e transformações de aplicações globais, regionais, nacionais e locais. O banco de dados de identificadores EPSG pode ser usado para especificar um CRS no QGIS. Você pode ler mais sobre o EPSG em <a href="http://www.epsg-registry.org/" target="_blank">www.epsg-registry.org/</a>.</p>
 
-                        <p>Importando arquivos csv.</p>
+                        <p><strong>Importando arquivos csv.</strong></p>
 
                         <div class="row">
                             <div class="col-md-2">
